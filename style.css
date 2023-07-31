@@ -87,7 +87,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/maksim-istomin-w6auPDgfDS0-unsplash.jpg') no-repeat;
+    background: url('maksim-istomin-w6auPDgfDS0-unsplash.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
